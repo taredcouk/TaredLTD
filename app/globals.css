@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+  font-family: var(--font-mRounded), sans-serif;
+}
+
+@theme{
+  --color-primary: rgb(44, 36, 73);
+  --color-secondary: rgba(190, 35, 45, 1);
+  --color-secondary-shade: rgba(190, 35, 45, 0.9);
+}
